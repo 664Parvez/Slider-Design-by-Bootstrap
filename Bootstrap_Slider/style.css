@@ -1,0 +1,10 @@
+.carousel-indicators [data-bs-target] {
+    height: 35px;
+    width: 35px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+
+.carousel-item{
+    height: 90vh;
+}
